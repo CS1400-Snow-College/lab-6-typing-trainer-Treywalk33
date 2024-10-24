@@ -35,6 +35,7 @@ namespace TypingTrainer
             
             int correctCharacters = 0;
             int incorrectCharacters = 0;
+        
 
         
             
@@ -59,7 +60,16 @@ namespace TypingTrainer
                 Console.ResetColor();
             }
 
-           
+            
+            
+            double accuracy = (correctCharacters / (correctCharacters + incorrectCharacters)) * 100;
+            int totalWords = challengeText.Split(' ').Length;
+            
+
+            
+            Console.WriteLine("\n");
+            Console.WriteLine($"Accuracy: {accuracy:N2}%");
+        
         }
     }
 }
