@@ -1,0 +1,15 @@
+C:\Users\Public\Desktop\my-code-dir\lab-6-typing-trainer-Treywalk33\bin\Debug\net8.0\lab-6-typing-trainer-Treywalk33.exe
+C:\Users\Public\Desktop\my-code-dir\lab-6-typing-trainer-Treywalk33\bin\Debug\net8.0\lab-6-typing-trainer-Treywalk33.deps.json
+C:\Users\Public\Desktop\my-code-dir\lab-6-typing-trainer-Treywalk33\bin\Debug\net8.0\lab-6-typing-trainer-Treywalk33.runtimeconfig.json
+C:\Users\Public\Desktop\my-code-dir\lab-6-typing-trainer-Treywalk33\bin\Debug\net8.0\lab-6-typing-trainer-Treywalk33.dll
+C:\Users\Public\Desktop\my-code-dir\lab-6-typing-trainer-Treywalk33\bin\Debug\net8.0\lab-6-typing-trainer-Treywalk33.pdb
+C:\Users\Public\Desktop\my-code-dir\lab-6-typing-trainer-Treywalk33\obj\Debug\net8.0\lab-6-typing-trainer-Treywalk33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Desktop\my-code-dir\lab-6-typing-trainer-Treywalk33\obj\Debug\net8.0\lab-6-typing-trainer-Treywalk33.AssemblyInfoInputs.cache
+C:\Users\Public\Desktop\my-code-dir\lab-6-typing-trainer-Treywalk33\obj\Debug\net8.0\lab-6-typing-trainer-Treywalk33.AssemblyInfo.cs
+C:\Users\Public\Desktop\my-code-dir\lab-6-typing-trainer-Treywalk33\obj\Debug\net8.0\lab-6-typing-trainer-Treywalk33.csproj.CoreCompileInputs.cache
+C:\Users\Public\Desktop\my-code-dir\lab-6-typing-trainer-Treywalk33\obj\Debug\net8.0\lab-6-typing-trainer-Treywalk33.sourcelink.json
+C:\Users\Public\Desktop\my-code-dir\lab-6-typing-trainer-Treywalk33\obj\Debug\net8.0\lab-6-typing-trainer-Treywalk33.dll
+C:\Users\Public\Desktop\my-code-dir\lab-6-typing-trainer-Treywalk33\obj\Debug\net8.0\refint\lab-6-typing-trainer-Treywalk33.dll
+C:\Users\Public\Desktop\my-code-dir\lab-6-typing-trainer-Treywalk33\obj\Debug\net8.0\lab-6-typing-trainer-Treywalk33.pdb
+C:\Users\Public\Desktop\my-code-dir\lab-6-typing-trainer-Treywalk33\obj\Debug\net8.0\lab-6-typing-trainer-Treywalk33.genruntimeconfig.cache
+C:\Users\Public\Desktop\my-code-dir\lab-6-typing-trainer-Treywalk33\obj\Debug\net8.0\ref\lab-6-typing-trainer-Treywalk33.dll
