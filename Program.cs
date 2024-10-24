@@ -35,9 +35,10 @@ namespace TypingTrainer
             
             int correctCharacters = 0;
             int incorrectCharacters = 0;
-        
+            double elapsedTimeInSeconds = 0;
 
-        
+            Stopwatch stopwatch = new Stopwatch();
+            stopwatch.Start();
             
             foreach (char expectedChar in challengeText)
             {
@@ -60,16 +61,19 @@ namespace TypingTrainer
                 Console.ResetColor();
             }
 
-            
+            stopwatch.Stop();
+            elapsedTimeInSeconds = stopwatch.ElapsedMilliseconds / 1000.0;
+
             
             double accuracy = (correctCharacters / (correctCharacters + incorrectCharacters)) * 100;
             int totalWords = challengeText.Split(' ').Length;
-            
+            double wordsPerMinute = (totalWords - incorrectCharacters) / (elapsedTimeInSeconds / 60);
 
-            
+           
             Console.WriteLine("\n");
             Console.WriteLine($"Accuracy: {accuracy:N2}%");
-        
+            Console.WriteLine($"Elapsed time: {elapsedTimeInSeconds:N2} seconds");
+            Console.WriteLine($"Words per minute: {wordsPerMinute:N2}");
         }
     }
 }
